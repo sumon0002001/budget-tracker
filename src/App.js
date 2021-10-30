@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import Details from './components/Details/Details'
 
 const App = () => {
     return (
         <div>
-            App
+          < Details />
         </div>
     )
 }
