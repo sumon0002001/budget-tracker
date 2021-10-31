@@ -22,6 +22,12 @@ const Main = () => {
 
           </CardContent>
           <CardContent className= {classes.cartContent} >
+            <Grid container spacing={2} >
+                <Grid item xs ={12}>
+                    {/* <List/> */}
+
+                </Grid>
+            </Grid>
               <Typography align = "center" variant = "h5" >
                   Total Balance : $100
               </Typography>
